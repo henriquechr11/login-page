@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-shadow: #000 1px 1px ;
+    transition: 0.5 s ease;
+}
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("assets/bg.jpg");
+    background-size: cover;
+    background-position: center;
+}
